@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 from second_code import Bars
 from third_code import decode_morse
 

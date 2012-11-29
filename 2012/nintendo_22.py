@@ -1,4 +1,5 @@
-﻿from second_code import SimpleBars
+﻿# -*- coding:utf-8 -*-
+from second_code import SimpleBars
 import re
 
 bs = SimpleBars(' '*78)#横幅が７８の何かを作る
