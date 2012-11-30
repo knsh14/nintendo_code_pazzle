@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 class SimpleBars(list):
 	def __init__(self, foo):
 		super(SimpleBars,self).__init__(foo)
